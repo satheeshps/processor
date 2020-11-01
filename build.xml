@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="build">
+  <target name="build">
+    <javac />
+  </target>
+</project>
